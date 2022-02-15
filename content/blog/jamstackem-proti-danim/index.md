@@ -52,5 +52,3 @@ Použít Gatsby s Netlify a jejich CMS bylo od první chvíle jednoduché a komu
 Navíc tenhle projekt pomohl při výběru našeho stacku v [Blueberry](https://www.blueberry.io/) při vytváření malých a středních webů. Jen Netlify jsme vyměnili za [AWS S3](https://www.blueberry.io/services/development/aws) pro hosting a [CircleCI](https://circleci.com/) pro deployment proces.
 
 Za mě tedy Gatsby rozhodně doporučuji a těším se, kam se celej stack posune v budoucnu.
-
-`youtube:https://www.youtube.com/embed/F-oLqMwzvBY`
