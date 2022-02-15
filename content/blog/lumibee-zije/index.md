@@ -83,4 +83,3 @@ Verze 1.7 [Lumibee už je v App Store]((https://itunes.apple.com/us/app/lumibee-
 
 A samozřejmě sledujte [Lumibee na instagramu](https://www.instagram.com/lumibeephoto/), sledujte tam i [Radka](https://www.instagram.com/radek_kudlacek/) a [podpořte vývoj Lumibee](https://itunes.apple.com/us/app/lumibee-fast-photo-editor/id1072221149?mt=8). A pokud vás aplikace baví, tak o ni řekněte dál.
 
-`youtube:https://www.youtube.com/embed/LwgwI_Inglo`
